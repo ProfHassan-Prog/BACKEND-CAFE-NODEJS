@@ -1,8 +1,3 @@
-Perfeito! Aqui está o **README.md** inteiro já formatado em Markdown — só copiar e colar direto no seu repositório:
-
----
-
-````markdown
 # ☕ Backend Café Node.js
 
 Este projeto é a base do **sistema de gestão de um café**, desenvolvido em **Node.js + Express + MySQL**.  
